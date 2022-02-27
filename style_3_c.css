@@ -1,0 +1,47 @@
+body{
+    margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+}
+
+
+.container_1{
+    width: 1200px;
+    margin: auto;
+}
+
+.box_1{
+    background-color: bisque;
+    width: 80%;
+    margin: auto;
+    padding: 30px 30px 30px 40px;
+    border: 2px solid black;
+}
+
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box_2{
+    width:40%;
+    margin: auto;
+    background-color: aqua;
+    padding: 20px 20px 20px 20px;
+    border:2px solid black;
+}
+
+
+.row_a{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box_A{
+    margin-bottom: 100 px;
+    width: 30%;
+    margin: auto;
+    background-color: aqua;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid black;
+}

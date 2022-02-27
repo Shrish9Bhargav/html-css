@@ -1,0 +1,27 @@
+body{
+    margin-top: 300px;
+    background-color: burlywood;
+    
+}
+
+
+.container{
+    width: 1400px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box_2{
+    width:30%;
+    margin: auto;
+
+    background-color: rgb(4, 183, 189);
+    padding: 10px 10px 10px 10px;
+    border:2px solid rgb(236, 230, 230);
+}
+
+
